@@ -5,6 +5,8 @@
 ![Watcher](https://img.shields.io/github/watchers/xnuvers007/waifu2x?style=social)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmykingbee.blogspot.com)
 ![Commit](https://img.shields.io/github/last-commit/xnuvers007/waifu2x)
+![Release](https://img.shields.io/github/release-date/Xnuvers007/waifu2x)
+![Discussion](https://img.shields.io/github/discussions/Xnuvers007/waifu2x)
 
 
 # Waifu2x
