@@ -22,3 +22,39 @@ selamat menggunakanya onichan
 
 ![Ohayou](https://static.wikia.nocookie.net/date-a-live/images/1/15/Yoshino_normal.png/ "ohayou")
 
+# Tutorial
+
+# Windows =
+
+1. Bisa langsung pakai di bagian folder App
+
+# Windows python =
+
+1. Download file simpan sebagai zip
+
+2. Ekstrak
+
+3. Buka cmd, menuju ke folder Waifu2x yg di download tadi
+
+4. ketik pip install -r requirements.txt
+
+
+5. Jalankan python dan run file Waifu2x.py
+
+# Termux & Linux
+
+1. apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y
+
+2. pkg install python3 -y && pkg install git -y
+
+3. git clone https://github.com/Xnuvers007/Waifu2x
+
+4. cd Waifu2x
+
+5. pip install -r requirements.txt
+
+6. python3 waifu2x.py
+
+
+
+Nb : Tested on Termux, Kali Linux, Windows
