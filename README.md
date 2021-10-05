@@ -28,6 +28,8 @@ selamat menggunakanya onichan
 
 1. Bisa langsung pakai di bagian folder App
 
+[Download disini untuk aplikasinya (Windows)](https://github.com/Xnuvers007/Waifu2x/raw/main/App/Waifu2x.exe)
+
 # Windows python =
 
 1. Download file simpan sebagai zip
